@@ -1,4 +1,16 @@
 
+/* Site Colors
+
+	dark blue: #0054a6; (Active links, hovers)
+
+	blue: #69B3E7;
+	light blue: #99D6EA;
+	green: #43B02A;
+	light green: #C4D600;
+	orange: #ED8B00;
+	yellow: #FFCD00;
+*/
+
 .nav.nav-pills.nav-justified{clear:both;}
 
 #homeSlides{margin-bottom:50px;}
